@@ -12,7 +12,6 @@
 -->
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -20,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Nathan-Handy/HandyDash">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="323" height="194">
   </a>
 
   <h1 align="center">HandyDash</h1>
@@ -61,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="images/screenshot.png" alt="Screenshot" width="902" height="1034">
 
 Welcome to HandyDash. I set about developing this software with the following features in mind:
 
