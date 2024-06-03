@@ -60,8 +60,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/screenshot-overview.png" alt="Screenshot" width="902" height="1034">
-
 Welcome to HandyDash. I set about developing this software with the following features in mind:
 
 * I wanted a tool that could be run with a single click, that doesn't require the installation of agents on target systems.
@@ -97,6 +95,8 @@ That's it!
 ## Usage
 
 Please check again soon for an overview of HandyDash features and basic usage.
+
+<img src="images/screenshot-overview.png" alt="Screenshot" width="451" height="517">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
