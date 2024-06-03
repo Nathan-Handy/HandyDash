@@ -26,7 +26,7 @@
   <h2 align="center">Operational Monitoring Made Easy.</h2>
 
   <p align="center">
-    HandyDash is a HTTP, TCP, and IP monitoring tool, intended for desktop use. It is agent free, requires no installation, and saves all configuration to a single portable file. Simply unzip the package and run the executable, to view and edit nodes within the browser based UI. 
+    HandyDash is a HTTP, TCP, and IP monitoring tool, intended for desktop use. It is agent free, requires no installation, and saves all configuration to a single portable file. Simply unzip the package and run the executable to view and edit nodes within the browser based UI. 
     <br />
     <br />
     <a href="https://github.com/Nathan-Handy/HandyDash/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/screenshot.png" alt="Screenshot" width="902" height="1034">
+<img src="images/screenshot-overview.png" alt="Screenshot" width="902" height="1034">
 
 Welcome to HandyDash. I set about developing this software with the following features in mind:
 
