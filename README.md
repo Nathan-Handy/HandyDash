@@ -18,21 +18,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Nathan-Handy/HandyDash">
-    <img src="images/logo.png" alt="Logo" width="323" height="194">
-  </a>
 
   <h1 align="center">HandyDash</h1>
   <h2 align="center">Operational Monitoring Made Easy.</h2>
 
   <p align="center">
     HandyDash is a HTTP, TCP, and IP monitoring tool, intended for desktop use. It is agent free, requires no installation, and saves all configuration to a single portable file. Simply unzip the package and run the executable to view and edit nodes within the browser based UI. 
-    <br />
-    <br />
+  </p>  
+  
+  <a href="https://github.com/Nathan-Handy/HandyDash">
+    <img src="images/logo.png" alt="Logo" width="323" height="194">
+  </a>
+  
+  <p>
     <a href="https://github.com/Nathan-Handy/HandyDash/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/Nathan-Handy/HandyDash/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
+  
 </div>
 
 
@@ -64,11 +67,11 @@ Welcome to HandyDash. I set about developing this software with the following fe
 
 * I wanted a tool that could be run with a single click, that doesn't require the installation of agents on target systems.
 * I wanted a tool that is simple to configure, without requiring programming or scripting knowledge.  
-* I wanted a tool that visually represents the platform that my teams are monitoring.
+* I wanted a tool that can visually represent the platforms that my team is monitoring.
 * I wanted a tool that distinguishes the criticallity of different events.
 * I wanted a tool that distinguishes between application failures and lower level connectivity failures.
 * I wanted a tool that articulates failures in a way that is actionable for my operations team.
-* I wanted a tool that links dependent systems and propogates related failures.
+* I wanted a tool that links composite systems and propogates failures to upstream nodes.
 
 Please see [my blog](https://www.nathanhandy.blog/articles/) for further discussion of application and systems monitoring.
 
@@ -105,7 +108,7 @@ Please check again soon for an overview of HandyDash features and basic usage.
 <!-- ROADMAP -->
 ## Roadmap
 
-As visible within the UI, some features are not yet fully implemented. I plan on completing these features as time permits. A star in GitHub or an email will certainly help with motivation, so please feel free to contact me using the details further below.
+As visible within the create and edit node screens, only a subset of configuration features are currently implemented. I plan on extending these features as time permits. A star in GitHub or an email will certainly help with motivation, so please feel free to contact me using the details further below.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +117,7 @@ As visible within the UI, some features are not yet fully implemented. I plan on
 <!-- LICENSE -->
 ## License
 
-HandyDash v1.0 is free, however it is not open-source. Please see `LICENSE.txt` for full license details.
+HandyDash v1.0 is free, however it is not open-source. Please see <a href="https://github.com/Nathan-Handy/HandyDash/blob/main/LICENSE.txt">`LICENSE.txt`</a> for full license details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
