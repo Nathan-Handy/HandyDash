@@ -1,4 +1,5 @@
 
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
@@ -82,9 +83,10 @@ Please see [my blog](https://www.nathanhandy.blog/articles/) for further discuss
 <!-- GETTING STARTED -->
 ## Getting Started
 
-HandyDash is intended for quick and easy desktop use, with very little setup.
-1. Download and unzip HandyDash-v1.0.zip
-2. Run the executable HandyDash.exe
+To get started using HandyDash in less than 5 minutes. Simply:
+
+1. Download and unzip <a href="https://github.com/Nathan-Handy/HandyDash/releases/tag/v1.0">HandyDash-v1.0-win-x64.zip</a>
+2. Run HandyDash.exe to load the UI.
 3. Add and edit monitor configurations using the Plus and Cog icons shown.
 
 That's it!
