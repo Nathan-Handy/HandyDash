@@ -83,7 +83,7 @@ Please see [my blog](https://www.nathanhandy.blog/articles/) for further discuss
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get started using HandyDash in less than 5 minutes. Simply:
+To get started using HandyDash in less than 5 minutes, simply:
 
 1. Download and unzip <a href="https://github.com/Nathan-Handy/HandyDash/releases/tag/v1.0">HandyDash-v1.0-win-x64.zip</a>
 2. Run HandyDash.exe to load the UI.
