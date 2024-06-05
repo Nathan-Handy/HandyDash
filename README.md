@@ -65,13 +65,13 @@
 
 Welcome to HandyDash. I set about developing this software with the following features in mind:
 
-* I wanted a tool that could be run with a single click, that doesn't require the installation of agents on target systems.
-* I wanted a tool that is simple to configure, without requiring programming or scripting knowledge.  
-* I wanted a tool that can visually represent the platforms that my team is monitoring.
-* I wanted a tool that distinguishes the criticallity of different events.
-* I wanted a tool that distinguishes between application failures and lower level connectivity failures.
-* I wanted a tool that articulates failures in a way that is actionable for my operations team.
-* I wanted a tool that links composite systems and propogates failures to upstream nodes.
+* I wanted a monitoring tool that could be run with a single click, and doesn't require the installation of agents on target systems.
+* I wanted a monitoring tool that is simple to configure, without requiring programming or scripting knowledge.  
+* I wanted a monitoring tool that can visually represent the platforms that my team is monitoring.
+* I wanted a monitoring tool that distinguishes the criticallity of different events.
+* I wanted a monitoring tool that distinguishes between application failures and lower level connectivity failures.
+* I wanted a monitoring tool that articulates failures in a way that is actionable for my operations team.
+* I wanted a monitoring tool that links the systems underpinning composite platforms, and propogates failures to upstream nodes.
 
 Please see [my blog](https://www.nathanhandy.blog/articles/) for further discussion of application and systems monitoring.
 
