@@ -68,10 +68,10 @@ Welcome to HandyDash. I set about developing this software with the following fe
 * I wanted a monitoring tool that could be run with a single click, and doesn't require the installation of agents on target systems.
 * I wanted a monitoring tool that is simple to configure, without requiring programming or scripting knowledge.  
 * I wanted a monitoring tool that can visually represent the platforms that my team is monitoring.
-* I wanted a monitoring tool that distinguishes the criticallity of different events.
+* I wanted a monitoring tool that distinguishes the criticality of different events.
 * I wanted a monitoring tool that distinguishes between application failures and lower level connectivity failures.
 * I wanted a monitoring tool that articulates failures in a way that is actionable for my operations team.
-* I wanted a monitoring tool that links the systems underpinning composite platforms, and propogates failures to upstream nodes.
+* I wanted a monitoring tool that links the systems underpinning composite platforms, and propagates failures to upstream nodes.
 
 Please see [my blog](https://www.nathanhandy.blog/articles/) for further discussion of application and systems monitoring.
 
@@ -117,7 +117,7 @@ As visible within the create and edit node screens, only a subset of configurati
 <!-- LICENSE -->
 ## License
 
-HandyDash v1.0 is free, however it is not open-source. Please see <a href="https://github.com/Nathan-Handy/HandyDash/blob/main/LICENSE.txt">`LICENSE.txt`</a> for full license details.
+HandyDash v1.0 is free, however it is not open-source. Please see <a href="https://github.com/Nathan-Handy/HandyDash/blob/main/license/License-HandyDash-v1.0.txt">`LICENSE.txt`</a> for full license details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
