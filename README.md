@@ -99,9 +99,13 @@ That's it!
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Please check again soon for an overview of HandyDash features and basic usage.
+HandyDash v1.0 is set to poll configured monitors at 1 minute intervals. The UI also refreshes every 1 minute, and while this may be manually refreshed via the web browser, it will not trigger the monitor polling functionality. 
 
-<img src="images/screenshot-overview.png" alt="Screenshot" width="451" height="517">
+Various UI features exist, including alert bubble up after repeated failures, the ability to disable bubbled up alerts for 24 hours, and click to zoom for individual monitor nodes.
+
+Please check again soon for further details regarding HandyDash features and usage.
+
+<img src="images/screenshot-overview.png" alt="Screenshot">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +114,9 @@ Please check again soon for an overview of HandyDash features and basic usage.
 <!-- ROADMAP -->
 ## Roadmap
 
-As visible within the create and edit node screens, only a subset of configuration features are currently implemented. I plan on extending these features as time permits. A star in GitHub or an email will certainly help with motivation, so please feel free to contact me using the details further below.
+As visible within the create and edit node screens, only a subset of configuration features are currently implemented. For example, while there are TCP and IP checks conducted when a HTTP check fails, you cannot currently specify a TCP, UDP, or IP only monitor.
+
+I plan on extending these features as time permits. A star in GitHub or an email will certainly help with motivation, so please feel free to contact me using the details further below.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
