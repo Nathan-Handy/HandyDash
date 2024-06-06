@@ -101,7 +101,7 @@ That's it!
 
 HandyDash v1.0 is set to poll configured monitors at 1 minute intervals. The UI also refreshes every 1 minute, and while this may be manually refreshed via the web browser, it will not trigger the monitor polling functionality. 
 
-Various UI features exist, including alert bubble up after repeated failures, the ability to disable bubbled up alerts for 24 hours, and click to zoom for individual monitor nodes.
+Various UI features exist, including alert bubble up after repeated warnings or failures, the ability to disable bubbled up alerts for 24 hours, and click to zoom for individual monitor nodes.
 
 Please check again soon for further details regarding HandyDash features and usage.
 
