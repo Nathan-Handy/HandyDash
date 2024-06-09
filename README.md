@@ -51,7 +51,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#features">Features</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -71,7 +71,7 @@ Welcome to HandyDash. I set about developing this software with the following fe
 * I wanted a monitoring tool that can visually represent the platforms that my team is monitoring.
 * I wanted a monitoring tool that distinguishes the criticality of different events.
 * I wanted a monitoring tool that distinguishes between application failures and lower level connectivity failures.
-* I wanted a monitoring tool that articulates failures in a way that is actionable for my operations team.
+* I wanted a monitoring tool that articulates failures in a way that is actionable by my operations team.
 * I wanted a monitoring tool that links the systems underpinning composite platforms, and propagates failures to upstream nodes.
 
 Please see [my blog](https://www.nathanhandy.blog/articles/) for further discussion of application and systems monitoring.
@@ -96,8 +96,8 @@ That's it!
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- TOOL FEATURES -->
+## Features
 
 HandyDash v1.0 is set to poll configured monitors at 1 minute intervals. The UI also refreshes every 1 minute, and while this may be manually refreshed via the web browser, it will not trigger the monitor polling functionality. 
 
