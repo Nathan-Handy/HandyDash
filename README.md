@@ -127,7 +127,7 @@ Please see below for HandyDash v1.0 features. A screenshot illustrating these fe
 * Date and Time shown for the most recent alert 'Last Alert', when node has returned to a healthy state (green state).
 * Automatic bubble up of warning and failure states (yellow and red states), when 2 consecutive alerts have occurred for a given child node.
 * Bubbled up alerts propagate to the root/top level node.
-* Ability to snooze bubbled up alerts - at the source of the alert - for 24 hours.
+* Ability to suppress bubbled up alerts - at the source of the alert - for 24 hours.
 
 **General**
 * Browser based tree view UI, with in-built browser zoom options.
