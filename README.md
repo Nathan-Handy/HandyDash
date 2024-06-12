@@ -140,7 +140,7 @@ Please see below for HandyDash v1.0 features. A screenshot illustrating these fe
 * Logging of all failures to the console UI, containing local and UTC time that each failure occurred.
 * Multi-threaded checks, ensuring slow response / failure of one node does not block the check of others.
 * Runs on local URL http://127.0.0.1:55480, with port configurable via "Urls" setting in appsettings.json.
-* All configurations persisted to a single portable JSON file 'handydash-configuration.json' located under the wwwroot folder.
+* All monitor configurations are persisted to a single portable JSON file 'handydash-configuration.json', located under the wwwroot folder.
 * Cross platform support, including Windows, Linux, and macOS (please enquire about further platforms).
 
 <img src="images/screenshot-overview.png" alt="Screenshot">
