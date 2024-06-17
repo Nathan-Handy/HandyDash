@@ -85,7 +85,7 @@ Please see [my blog](https://www.nathanhandy.blog/articles/) for further discuss
 
 To get started using HandyDash, simply:
 
-1. Download and unzip the <a href="https://github.com/Nathan-Handy/HandyDash/releases/tag/v1.0">HandyDash-v1.0 zip file</a> for your chosen platform.
+1. Download and unzip the <a href="https://github.com/Nathan-Handy/HandyDash/releases">HandyDash version</a> for your chosen platform.
 2. Run the HandyDash executable to start the application.
 3. Add and edit monitor configurations using the Plus and Cog icons shown.
 
@@ -163,7 +163,7 @@ I plan on extending these features as time permits. A star in GitHub or an email
 <!-- LICENSE -->
 ## License
 
-HandyDash v1.0 is free, however it is not open-source. Please see <a href="https://github.com/Nathan-Handy/HandyDash/blob/main/license/License-HandyDash-v1.0.txt">`LICENSE.txt`</a> for full license details.
+HandyDash v1 is free, however it is not open-source. Please see the <a href="https://github.com/Nathan-Handy/HandyDash/tree/main/license">`HandyDash License`</a> for further details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
