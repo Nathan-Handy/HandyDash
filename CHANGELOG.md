@@ -4,7 +4,7 @@
 
 Version 1.1 includes the bug fixes listed below.
 
-Please note: If you are already running HandyDash v1.0, simply backup your 'handydash-configuration.json' file, and copy this back into the wwwroot folder once v1.1 is extracted.
+Please note: If you are already running HandyDash v1.0, simply backup your 'handydash-configuration.json' file, and copy this back into the wwwroot folder once v1.1 is extracted. Please also note, the 'dotnet8' package requires DotNet 8 to be pre-installed on the host system. 
 
 **Bug Fixes:**
 
