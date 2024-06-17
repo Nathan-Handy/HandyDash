@@ -4,13 +4,16 @@
 
 Version 1.1 includes the bug fixes listed below.
 
-Please note: If you are already running HandyDash v1.0, simply backup your 'handydash-configuration.json' file, and copy this back into the wwwroot folder once v1.1 is extracted. Please also note, the 'dotnet8' package requires the 'ASP.NET Core 8.0 Runtime' to be pre-installed on the host system. 
+Please note: If you are already running HandyDash v1.0, simply backup your 'handydash-configuration.json' file, and copy this back into the wwwroot folder once v1.1 is extracted.
 
 **Bug Fixes:**
 
 - The warning message for upcoming intermediate and root certificate expiry, now correctly displays the certificate name.
 - The error message for intermediate and root certificates that have expired, now correctly displays the certificate name.
 
+**Package Details:**
+- The 'dotnet8' package requires the 'ASP.NET Core 8.0 Runtime' to be pre-installed on the host system. 
+- All other packages are fully self contained, and can be simply unzipped and executed.
 
 ## v1.0
 
