@@ -11,6 +11,7 @@ Please note: If you are already running HandyDash v1.0, simply backup your 'hand
 - The warning message for upcoming intermediate and root certificate expiry, now correctly displays the certificate name.
 - The error message for intermediate and root certificates that have expired, now correctly displays the certificate name.
 
+
 ## v1.0
 
 Please see below for HandyDash v1.0 features.
