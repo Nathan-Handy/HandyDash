@@ -98,8 +98,8 @@ That's it!
 
 <!-- TOOL FEATURES -->
 ## Features
-### v1.0
-Please see below for HandyDash v1.0 features. A screenshot illustrating these features is shown further below.
+### v2.0
+Please see below for HandyDash v2.0 features. A screenshot illustrating these features is shown further below.
 
 **Available Checks**
 * HTTP check for 200-299 (success) responses (follows 30X redirects).
@@ -133,12 +133,15 @@ Please see below for HandyDash v1.0 features. A screenshot illustrating these fe
 * Browser based tree view UI, with in-built browser zoom options.
 * Single click to zoom to any individual node (useful when browser zoom is set to a low value in order to display many nodes).
 * Expand and collapse button for each parent node.
+* Move Node feature. Activated via the control bar on each node.
+* Compact View feature. Activated via the root node control bar, this shows a compact view for healthy nodes.
 * UI options for spacing between parent and child nodes, and horizontal or vertical display of child nodes.
 * Automatic polling of all HTTP targets at 1 minute intervals.
 * Automatic refresh of browser UI at 1 minute intervals.
 * HTTP check automatically follows 30X redirects and conducts checks against the target location.
-* Logging of all failures to the console UI, containing local and UTC time that each failure occurred.
-* Multi-threaded checks, ensuring slow response / failure of one node does not block the check of others.
+* Logging of all failures to the console UI, containing local and UTC time that each failure occurred. Enabled by default via the 'ConsoleLoggingEnabled' setting, with 'Error', 'Warn', or 'Verbose' being valid 'ConsoleLoggingLevel' values.
+* Ability to execute node checks in serial or parallel. Controlled via the appsettings.json file, via the 'RunChecksInParallel' setting, that is set to false by default.
+* Ability to set a proxy server for HandyDash to use, when undertaking HTTP checks. Controlled via the appsettings.json file, via the 'ProxyOverride' setting.
 * Runs on local URL http://127.0.0.1:55480, with port configurable via "Urls" setting in appsettings.json.
 * All monitor configurations are persisted to a single portable JSON file 'handydash-configuration.json', located under the wwwroot folder.
 * Cross platform support, including Windows, Linux, and macOS (please enquire about further platforms).
@@ -163,7 +166,7 @@ I plan on extending these features as time permits. A star in GitHub or an email
 <!-- LICENSE -->
 ## License
 
-HandyDash v1 is free, however it is not open-source. Please see the <a href="https://github.com/Nathan-Handy/HandyDash/tree/main/license">`HandyDash License`</a> for further details.
+HandyDash v2 is free, however it is not open-source. Please see the <a href="https://github.com/Nathan-Handy/HandyDash/tree/main/license">`HandyDash License`</a> for further details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,5 +1,16 @@
 # Changelog
 
+## v2.0
+
+Please see below for HandyDash v2.0 features and improvements.
+
+- Move Node feature added. Activated via the control bar on each node.
+- Compact View feature added. Activated via the root node control bar, this shows a compact view for healthy nodes. Clicking on the node still activates the zoom feature, and shows all metrics while the compact view is enabeld, until the node is zoomed out once again.
+- Improved Console Logging. Controlled via the appsettings.json file. Enabled by default via the 'ConsoleLoggingEnabled' setting, with 'Error', 'Warn', or 'Verbose' being valid 'ConsoleLoggingLevel' values.
+- Ability to execute node checks in serial or parallel. Controlled via the appsettings.json file, via the 'RunChecksInParallel' setting, that is set to false by default. Other general improvements to thread synchronization.
+- Ability to set a proxy server for HandyDash to use, when undertaking HTTP checks. Controlled via the appsettings.json file, via the 'ProxyOverride' setting.
+- Removed 50 node limit.
+
 ## v1.1
 
 Version 1.1 includes the bug fixes listed below.
